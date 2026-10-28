@@ -1,0 +1,26 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "cl.animeinfo.cine",
+      "sha256_cert_fingerprints": [
+        "C6:EA:00:79:CC:B3:A8:94:B3:21:07:F3:81:0F:F3:1B:E4:AF:20:74:03:5A:F7:22:FD:6D:E3:BA:BC:E2:3D:86"
+      ]
+    }
+  },
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "cl.animeinfo.mobile",
+      "sha256_cert_fingerprints": [
+        "C6:EA:00:79:CC:B3:A8:94:B3:21:07:F3:81:0F:F3:1B:E4:AF:20:74:03:5A:F7:22:FD:6D:E3:BA:BC:E2:3D:86"
+      ]
+    }
+  }
+]
